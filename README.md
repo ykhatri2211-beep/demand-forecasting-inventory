@@ -22,14 +22,14 @@ The app also works with the real Kaggle `train.csv`. Upload it in the sidebar.
 
 ## How to run
 
-```
+```bash
 pip install -r requirements.txt
 streamlit run demand_forecast.py
 ```
 
 On Windows, if `pip` or `streamlit` is not recognized:
 
-```
+```bash
 py -m pip install -r requirements.txt
 py -m streamlit run demand_forecast.py
 ```
