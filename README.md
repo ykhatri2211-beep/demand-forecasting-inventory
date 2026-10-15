@@ -3,6 +3,7 @@
 A Streamlit app that forecasts product demand using time series models and converts the forecast into a stock-ordering recommendation (predictive → prescriptive analytics).
 
 Mini project for the **Predictive Analytics** course (Time Series Analysis, Model Validation and Optimization).
+##Live Link - https://demand-forecasting-inventory-yypd9vridx6fahgveqsv6m.streamlit.app/
 
 ## Features
 
